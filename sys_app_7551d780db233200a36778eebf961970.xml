@@ -7,7 +7,7 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="addressbook">7151db04db233200a36778eebf9619ab</menu>
+        <menu display_value="Address Book">7151db04db233200a36778eebf9619ab</menu>
         <name>addressbook</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>

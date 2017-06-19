@@ -16,8 +16,8 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7151db04db233200a36778eebf9619ab</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>addressbook</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Address Book</sys_name>
         <sys_overrides/>
         <sys_package display_value="addressbook" source="x_48666_addressboo">7551d780db233200a36778eebf961970</sys_package>
         <sys_policy/>
@@ -25,8 +25,8 @@
         <sys_scope display_value="addressbook">7551d780db233200a36778eebf961970</sys_scope>
         <sys_update_name>sys_app_application_7151db04db233200a36778eebf9619ab</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-19 20:57:05</sys_updated_on>
-        <title>addressbook</title>
+        <sys_updated_on>2017-06-19 21:02:53</sys_updated_on>
+        <title>Address Book</title>
         <view_name/>
     </sys_app_application>
 </record_update>
