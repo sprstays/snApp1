@@ -2,5 +2,6 @@
 <database>
     <element label="addressbook Table" max_length="40" name="x_48666_addressboo_addressbook_table" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone number" max_length="40" name="phone_number" type="string"/>
     </element>
 </database>
